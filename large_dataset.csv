@@ -1,0 +1,455 @@
+Outlook,Temp,Humidity,Windy,Play
+
+Rainy,Hot,High,f,no
+Rainy,Hot,High,t,no
+Overcast,Hot,High,f,yes
+Sunny,Mild,High,f,yes
+Sunny,Cool,Normal, f,yes
+Sunny,Cool,Normal, t,no
+Overcast,Cool,Normal, t,yes
+Rainy,Mild,High,f,no
+Rainy,Cool,Normal, f,yes
+Sunny,Mild,Normal, f,yes
+Rainy,Mild,Normal, t,yes
+Overcast,Mild,High,t,yes
+Overcast,Hot,Normal, f,yes
+Sunny,Cool,Normal, t,no
+Overcast,Cool,Normal, t,yes
+Rainy,Mild,High,f,no
+Rainy,Cool,Normal, f,yes
+Sunny,Mild,Normal, f,yes
+Rainy,Mild,Normal, t,yes
+Overcast,Mild,High,t,yes
+Overcast,Hot,Normal, f,yes
+Sunny,Cool,Normal, t,no
+Overcast,Cool,Normal, t,yes
+Rainy,Mild,High,f,no
+Rainy,Cool,Normal, f,yes
+Sunny,Mild,Normal, f,yes
+Rainy,Mild,Normal, t,yes
+Overcast,Mild,High,t,yes
+Overcast,Hot,Normal, f,yes
+Sunny,Cool,Normal, t,no
+Overcast,Cool,Normal, t,yes
+Rainy,Mild,High,f,no
+Rainy,Cool,Normal, f,yes
+Sunny,Mild,Normal, f,yes
+Rainy,Mild,Normal, t,yes
+Overcast,Mild,High,t,yes
+Overcast,Hot,Normal, f,yes
+Sunny,Cool,Normal, t,no
+Overcast,Cool,Normal, t,yes
+Rainy,Mild,High,f,no
+Rainy,Cool,Normal, f,yes
+Sunny,Mild,Normal, f,yes
+Rainy,Mild,Normal, t,yes
+Overcast,Mild,High,t,yes
+Overcast,Hot,Normal, f,yes
+Sunny,Cool,Normal, t,no
+Overcast,Cool,Normal, t,yes
+Rainy,Mild,High,f,no
+Rainy,Cool,Normal, f,yes
+Sunny,Mild,Normal, f,yes
+Rainy,Mild,Normal, t,yes
+Overcast,Mild,High,t,yes
+Overcast,Hot,Normal, f,yes
+Sunny,Cool,Normal, t,no
+Overcast,Cool,Normal, t,yes
+Rainy,Mild,High,f,no
+Rainy,Cool,Normal, f,yes
+Sunny,Mild,Normal, f,yes
+Rainy,Mild,Normal, t,yes
+Overcast,Mild,High,t,yes
+Overcast,Hot,Normal, f,yes
+Sunny,Cool,Normal, t,no
+Overcast,Cool,Normal, t,yes
+Rainy,Mild,High,f,no
+Rainy,Cool,Normal, f,yes
+Sunny,Mild,Normal, f,yes
+Rainy,Mild,Normal, t,yes
+Overcast,Mild,High,t,yes
+Overcast,Hot,Normal, f,yes
+Sunny,Cool,Normal, t,no
+Overcast,Cool,Normal, t,yes
+Rainy,Mild,High,f,no
+Rainy,Cool,Normal, f,yes
+Sunny,Mild,Normal, f,yes
+Rainy,Mild,Normal, t,yes
+Overcast,Mild,High,t,yes
+Overcast,Hot,Normal, f,yes
+Sunny,Cool,Normal, t,no
+Overcast,Cool,Normal, t,yes
+Rainy,Mild,High,f,no
+Rainy,Cool,Normal, f,yes
+Sunny,Mild,Normal, f,yes
+Rainy,Mild,Normal, t,yes
+Overcast,Mild,High,t,yes
+Overcast,Hot,Normal, f,yes
+Sunny,Cool,Normal, t,no
+Overcast,Cool,Normal, t,yes
+Rainy,Mild,High,f,no
+Rainy,Cool,Normal, f,yes
+Sunny,Mild,Normal, f,yes
+Rainy,Mild,Normal, t,yes
+Overcast,Mild,High,t,yes
+Overcast,Hot,Normal, f,yes
+Sunny,Cool,Normal, t,no
+Overcast,Cool,Normal, t,yes
+Rainy,Mild,High,f,no
+Rainy,Cool,Normal, f,yes
+Sunny,Mild,Normal, f,yes
+Rainy,Mild,Normal, t,yes
+Overcast,Mild,High,t,yes
+Overcast,Hot,Normal, f,yes
+Sunny,Cool,Normal, t,no
+Overcast,Cool,Normal, t,yes
+Rainy,Mild,High,f,no
+Rainy,Cool,Normal, f,yes
+Sunny,Mild,Normal, f,yes
+Rainy,Mild,Normal, t,yes
+Overcast,Mild,High,t,yes
+Overcast,Hot,Normal, f,yes
+Sunny,Cool,Normal, t,no
+Overcast,Cool,Normal, t,yes
+Rainy,Mild,High,f,no
+Rainy,Cool,Normal, f,yes
+Sunny,Mild,Normal, f,yes
+Rainy,Mild,Normal, t,yes
+Overcast,Mild,High,t,yes
+Overcast,Hot,Normal, f,yes
+Sunny,Cool,Normal, t,no
+Overcast,Cool,Normal, t,yes
+Rainy,Mild,High,f,no
+Rainy,Cool,Normal, f,yes
+Sunny,Mild,Normal, f,yes
+Rainy,Mild,Normal, t,yes
+Overcast,Mild,High,t,yes
+Overcast,Hot,Normal, f,yes
+Sunny,Cool,Normal, t,no
+Overcast,Cool,Normal, t,yes
+Rainy,Mild,High,f,no
+Rainy,Cool,Normal, f,yes
+Sunny,Mild,Normal, f,yes
+Rainy,Mild,Normal, t,yes
+Overcast,Mild,High,t,yes
+Overcast,Hot,Normal, f,yes
+Sunny,Cool,Normal, t,no
+Overcast,Cool,Normal, t,yes
+Rainy,Mild,High,f,no
+Rainy,Cool,Normal, f,yes
+Sunny,Mild,Normal, f,yes
+Rainy,Mild,Normal, t,yes
+Overcast,Mild,High,t,yes
+Overcast,Hot,Normal, f,yes
+Sunny,Cool,Normal, t,no
+Overcast,Cool,Normal, t,yes
+Rainy,Mild,High,f,no
+Rainy,Cool,Normal, f,yes
+Sunny,Mild,Normal, f,yes
+Rainy,Mild,Normal, t,yes
+Overcast,Mild,High,t,yes
+Overcast,Hot,Normal, f,yes
+Sunny,Cool,Normal, t,no
+Overcast,Cool,Normal, t,yes
+Rainy,Mild,High,f,no
+Rainy,Cool,Normal, f,yes
+Sunny,Mild,Normal, f,yes
+Rainy,Mild,Normal, t,yes
+Overcast,Mild,High,t,yes
+Overcast,Hot,Normal, f,yes
+Sunny,Cool,Normal, t,no
+Overcast,Cool,Normal, t,yes
+Rainy,Mild,High,f,no
+Rainy,Cool,Normal, f,yes
+Sunny,Mild,Normal, f,yes
+Rainy,Mild,Normal, t,yes
+Overcast,Mild,High,t,yes
+Overcast,Hot,Normal, f,yes
+Sunny,Mild,High,t,no
+Sunny,Hot,Normal, f,yes
+Rainy,Mild,Normal, f,yes
+Overcast,Hot,High,t,no
+Rainy,Cool,Normal, f,yes
+Rainy,Cool,Normal, t,no
+Sunny,Mild,Normal, t,yes
+Overcast,Cool,High,f,yes
+Rainy,Mild,High,t,no
+Sunny,Mild,High,f,yes
+Sunny,Cool,High,t,yes
+Overcast,Mild,Normal, f,no
+Rainy,Cool,High,t,no
+Rainy,Cool,Normal, t,yes
+Sunny,Hot,Normal, f,yes
+Rainy,Mild,Normal, t,yes
+Overcast,Cool,High,f,no
+Sunny,Hot,Normal, t,no
+Sunny,Mild,High,f,yes
+Rainy,Mild,Normal, f,yes
+Overcast,Mild,High,t,no
+Sunny,Mild,High,t,yes
+Rainy,Cool,Normal, t,yes
+Rainy,Mild,High,t,no
+Sunny,Hot,Normal, f,yes
+Rainy,Cool,Normal, f,yes
+Sunny,Mild,High,t,no
+Overcast,Hot,Normal, t,yes
+Rainy,Mild,Normal, f,yes
+Overcast,Hot,High,f,yes
+Rainy,Cool,High,t,no
+Sunny,Hot,High,f,no
+Rainy,Mild,High,f,yes
+Sunny,Cool,High,t,yes
+Overcast,Mild,Normal, t,no
+Sunny,Hot,High,f,yes
+Rainy,Cool,Normal, f,no
+Rainy,Cool,High,t,yes
+Sunny,Hot,Normal, t,no
+Rainy,Mild,Normal, t,yes
+Overcast,Mild,High,t,yes
+Sunny,Cool,Normal, t,yes
+Overcast,Hot,Normal, f,no
+Rainy,Mild,Normal, f,no
+Overcast,Mild,High,f,yes
+Sunny,Cool,High,f,yes
+Rainy,Cool,Normal, f,yes
+Sunny,Cool,High,t,yes
+Overcast,Cool,High,t,no
+Rainy,Hot,High,t,no
+Sunny,Cool,Normal, t,yes
+Overcast,Hot,Normal, f,no
+Rainy,Mild,Normal, f,no
+Overcast,Mild,High,f,yes
+Sunny,Cool,High,f,yes
+Rainy,Cool,Normal, f,yes
+Sunny,Cool,High,t,yes
+Overcast,Cool,High,t,no
+Rainy,Hot,High,t,no
+Overcast,Mild,Normal, f,yes
+Sunny,Mild,High,t,yes
+Rainy,Hot,Normal, t,no
+Rainy,Mild,Normal, f,yes
+Sunny,Cool,Normal, t,yes
+Overcast,Hot,High,t,yes
+Rainy,Mild,High,t,yes
+Sunny,Hot,High,f,no
+Rainy,Cool,Normal, f,no
+Sunny,Hot,High,t,yes
+Overcast,Mild,High,t,yes
+Rainy,Hot,Normal, f,yes
+Sunny,Cool,High,f,yes
+Overcast,Hot,High,f,no
+Sunny,Cool,High,f,yes
+Rainy,Mild,High,f,yes
+Overcast,Mild,High,t,yes
+Sunny,Mild,Normal, f,yes
+Rainy,Cool,High,t,no
+Overcast,Mild,Normal, t,yes
+Sunny,Cool,Normal, f,yes
+Overcast,Hot,Normal, f,yes
+Sunny,Cool,High,f,no
+Rainy,Mild,Normal, t,yes
+Overcast,Mild,High,f,no
+Rainy,Cool,High,f,yes
+Sunny,Mild,High,t,yes
+Rainy,Hot,High,t,no
+Rainy,Cool,Normal, t,no
+Sunny,Mild,Normal, f,yes
+Overcast,Hot,Normal, t,yes
+Rainy,Mild,High,t,no
+Sunny,Cool,Normal, f,yes
+Overcast,Mild,Normal, f,yes
+Rainy,Hot,Normal, t,no
+Rainy,Mild,Normal, f,yes
+Sunny,Cool,Normal, t,yes
+Overcast,Hot,High,t,yes
+Rainy,Mild,High,t,yes
+Sunny,Hot,High,f,no
+Rainy,Cool,Normal, f,no
+Sunny,Hot,High,t,yes
+Overcast,Mild,High,t,yes
+Rainy,Hot,Normal, f,yes
+Sunny,Cool,High,f,yes
+Overcast,Hot,High,f,no
+Sunny,Cool,High,f,yes
+Rainy,Mild,High,f,yes
+Overcast,Mild,High,t,yes
+Sunny,Mild,Normal, f,yes
+Rainy,Cool,High,t,no
+Overcast,Mild,Normal, t,yes
+Sunny,Cool,Normal, f,yes
+Overcast,Hot,Normal, f,yes
+Sunny,Cool,High,f,no
+Rainy,Mild,Normal, t,yes
+Overcast,Mild,High,f,no
+Rainy,Cool,High,f,yes
+Sunny,Mild,High,t,yes
+Rainy,Hot,High,t,no
+Rainy,Cool,Normal, t,no
+Sunny,Mild,Normal, f,yes
+Overcast,Hot,Normal, t,yes
+Rainy,Mild,High,t,no
+Sunny,Cool,Normal, f,yes
+Overcast,Mild,Normal, f,yes
+Rainy,Hot,Normal, t,no
+Rainy,Mild,Normal, f,yes
+Sunny,Cool,Normal, t,yes
+Overcast,Hot,High,t,yes
+Rainy,Mild,High,t,yes
+Sunny,Hot,High,f,no
+Rainy,Cool,Normal, f,no
+Sunny,Hot,High,t,yes
+Overcast,Mild,High,t,yes
+Rainy,Hot,Normal, f,yes
+Sunny,Cool,High,f,yes
+Overcast,Hot,High,f,no
+Sunny,Cool,High,f,yes
+Rainy,Mild,High,f,yes
+Overcast,Mild,High,t,yes
+Sunny,Mild,Normal, f,yes
+Rainy,Cool,High,t,no
+Overcast,Mild,Normal, t,yes
+Sunny,Cool,Normal, f,yes
+Overcast,Hot,Normal, f,yes
+Sunny,Cool,High,f,no
+Rainy,Mild,Normal, t,yes
+Overcast,Mild,High,f,no
+Rainy,Cool,High,f,yes
+Sunny,Mild,High,t,yes
+Rainy,Hot,High,t,no
+Rainy,Cool,Normal, t,no
+Sunny,Mild,Normal, f,yes
+Overcast,Hot,Normal, t,yes
+Rainy,Mild,High,t,no
+Sunny,Cool,Normal, f,yes
+Overcast,Mild,Normal, f,yes
+Rainy,Hot,Normal, t,no
+Rainy,Mild,Normal, f,yes
+Sunny,Cool,Normal, t,yes
+Overcast,Hot,High,t,yes
+Rainy,Mild,High,t,yes
+Sunny,Hot,High,f,no
+Rainy,Cool,Normal, f,no
+Sunny,Hot,High,t,yes
+Overcast,Mild,High,t,yes
+Rainy,Hot,Normal, f,yes
+Sunny,Cool,High,f,yes
+Overcast,Hot,High,f,no
+Sunny,Cool,High,f,yes
+Rainy,Mild,High,f,yes
+Overcast,Mild,High,t,yes
+Sunny,Mild,Normal, f,yes
+Rainy,Cool,High,t,no
+Overcast,Mild,Normal, t,yes
+Sunny,Cool,Normal, f,yes
+Overcast,Hot,Normal, f,yes
+Sunny,Cool,High,f,no
+Rainy,Mild,Normal, t,yes
+Overcast,Mild,High,f,no
+Sunny,Cool,Normal, f,yes
+Overcast,Mild,Normal, f,yes
+Rainy,Hot,Normal, t,no
+Rainy,Mild,Normal, f,yes
+Sunny,Cool,Normal, t,yes
+Overcast,Hot,High,t,yes
+Rainy,Mild,High,t,yes
+Sunny,Hot,High,f,no
+Rainy,Cool,Normal, f,no
+Sunny,Hot,High,t,yes
+Overcast,Mild,High,t,yes
+Rainy,Hot,Normal, f,yes
+Sunny,Cool,High,f,yes
+Overcast,Hot,High,f,no
+Sunny,Cool,High,f,yes
+Rainy,Mild,High,f,yes
+Overcast,Mild,High,t,yes
+Sunny,Mild,Normal, f,yes
+Rainy,Cool,High,t,no
+Overcast,Mild,Normal, t,yes
+Sunny,Cool,Normal, f,yes
+Overcast,Hot,Normal, f,yes
+Sunny,Cool,High,f,no
+Rainy,Mild,Normal, t,yes
+Overcast,Mild,High,f,no
+Rainy,Cool,High,f,yes
+Sunny,Mild,High,t,yes
+Rainy,Hot,High,t,no
+Rainy,Cool,Normal, t,no
+Sunny,Mild,Normal, f,yes
+Overcast,Hot,Normal, t,yes
+Rainy,Mild,High,t,no
+Sunny,Cool,Normal, f,yes
+Overcast,Mild,Normal, f,yes
+Rainy,Hot,Normal, t,no
+Rainy,Mild,Normal, f,yes
+Sunny,Cool,Normal, t,yes
+Overcast,Hot,High,t,yes
+Rainy,Mild,High,t,yes
+Sunny,Hot,High,f,no
+Rainy,Cool,Normal, f,no
+Sunny,Hot,High,t,yes
+Overcast,Mild,High,t,yes
+Rainy,Hot,Normal, f,yes
+Sunny,Cool,High,f,yes
+Overcast,Hot,High,f,no
+Sunny,Cool,High,f,yes
+Rainy,Mild,High,f,yes
+Overcast,Mild,High,t,yes
+Sunny,Mild,Normal, f,yes
+Rainy,Cool,High,t,no
+Overcast,Mild,Normal, t,yes
+Sunny,Cool,Normal, f,yes
+Overcast,Hot,Normal, f,yes
+Sunny,Cool,High,f,no
+Rainy,Mild,Normal, t,yes
+Overcast,Mild,High,f,no
+Rainy,Cool,High,f,yes
+Sunny,Mild,High,t,yes
+Rainy,Hot,High,t,no
+Rainy,Cool,Normal, t,no
+Sunny,Mild,Normal, f,yes
+Overcast,Hot,Normal, t,yes
+Rainy,Mild,High,t,no
+Sunny,Cool,Normal, f,yes
+Overcast,Mild,Normal, f,yes
+Rainy,Hot,Normal, t,no
+Rainy,Mild,Normal, f,yes
+Sunny,Cool,Normal, t,yes
+Overcast,Hot,High,t,yes
+Rainy,Mild,High,t,yes
+Sunny,Hot,High,f,no
+Rainy,Cool,Normal, f,no
+Sunny,Hot,High,t,yes
+Overcast,Mild,High,t,yes
+Rainy,Hot,Normal, f,yes
+Sunny,Cool,High,f,yes
+Overcast,Hot,High,f,no
+Sunny,Cool,High,f,yes
+Rainy,Mild,High,f,yes
+Overcast,Mild,High,t,yes
+Sunny,Mild,Normal, f,yes
+Rainy,Cool,High,t,no
+Overcast,Mild,Normal, t,yes
+Sunny,Cool,Normal, f,yes
+Overcast,Hot,Normal, f,yes
+Sunny,Cool,High,f,no
+Rainy,Mild,Normal, t,yes
+Overcast,Mild,High,f,no
+Rainy,Cool,High,f,yes
+Sunny,Mild,High,t,yes
+Rainy,Hot,High,t,no
+Rainy,Cool,Normal, t,no
+Sunny,Mild,Normal, f,yes
+Overcast,Hot,Normal, t,yes
+Rainy,Mild,High,t,no
+Sunny,Cool,Normal, f,yes
+Overcast,Mild,Normal, f,yes
+Rainy,Mild,High,f,no
+Rainy,Cool,Normal, f,yes
+Sunny,Mild,Normal, f,yes
+Rainy,Mild,Normal, t,yes
+Overcast,Mild,High,t,yes
+Overcast,Hot,Normal, f,yes
+Sunny,Cool,Normal, t,no
+Overcast,Cool,Normal, t,yes
+Rainy,Mild,High,f,no
+Rainy,Cool,Normal, f,yes
